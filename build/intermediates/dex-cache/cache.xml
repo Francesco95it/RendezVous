@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/francesco/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e9ea264d4ab60613cc9db767c3c4df8971c2b87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/70dd0c685c941368a774cae110b8374d9dea06d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d62cfb1e243ed6cee252771c821db5c0bd210a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/62c67cf448abff8d7071d5946e0a9a34be6287ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2cfd2ecdb00d5137a535275e094bdf0a7fd5536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/d5228d4324a71979eee80b00e7af50ea6e09e8d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f147e61562ce426b2e5abea1626077a3a1be0ba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/163ac4c93f02a2848719edb7920de558d79ee989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ef44bd76a5f6e46e4692affc690b7fe32956ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/83f88db718907784a1cf20f9eb101e24096ebab3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc8c2b371069c12b0b57bc37acfef3969b0eead4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/9ca89c872587c8573f2f0ec8a85c94fa10fe2ee0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27b755ff7f1caa482f87c24504d055f2a8789d01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/26182b5ebed46cdd1d0b8ab963ec2d498176a607/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77ad2bb2905fdd8e6900598aa69799cbb49a4052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/2a505295ffed51f4176a8a2e61d2098bcf5bc79e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f26190ab651f04599c30407f668f3f45e62738f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/c4cd21b385bc50a9c96817791144a363c94babad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6c4e758e5ef521043c0614a3af0e467d21b9dd8b">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e903b60c37228c0f10519b34bc14b167c665dc66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/c26ddd17cca5e339377c435feae1f99112fcb209/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa10995006ad43946707198a27102dfa6e8f21d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/91dfb7a66ddd1b81819e6062ec105fcc2e7d34d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1213f9f2b17bc9d868783f76f16a65ff5c3615bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/1722855d1138404462077f63bfa1a5b111d5d87f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c48baef8f4cd314343ef54f6ed3ec6a45a18eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e80566744662e67cc1ffdbdf852dc81f4ceb415c">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ff94f76bbf5b534fb61cb70ba8dbd2abdece2ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/a1474c3061546dd4fd3b7a0b29c7374b1afff3bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ad6f500b0180a0b3b37f2fdd5ce60dce0aa7abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.android/build-cache/fcc87c1a239ccdde73bb7fced7861b6c4f34696f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04abc43e3e136148d539f014458b077283b5690c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae4ee4715370c7d2d4da209ac4bd9ed768b31ba0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/francesco/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/home/francesco/AndroidStudioProjects/Rendezvous/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_730bd688ecae3795e39dd71fe5cfda1e20079eeb/classes.dex" />
+    </item>
+
+</items>
