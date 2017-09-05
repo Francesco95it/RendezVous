@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="spacer">
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="AppCompatMod" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/statbar_franz_light</item>
+        <item name="android:colorBackground">@color/background_franz_light</item>
+        <item name="colorAccent">@color/accent_material_light_rv</item>
+        <item name="android:textColorPrimary">@color/accent_material_light_rv</item>
+        <item name="android:textColorSecondary">@color/accent_material_light_rv</item>
+        <item name="android:textColorPrimaryInverse">@color/primary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/secondary_text_material_light</item>
+        <item name="android:textColor">@color/accent_material_light_rv</item>
+    </style>
+
+
+    <style name="toolbarTextBorder">
+        <item name="android:shadowColor">#000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+
+</resources>

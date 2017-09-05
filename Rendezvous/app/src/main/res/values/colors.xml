@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_material_light">#fafafa</color>
+    <color name="background_franz_light">#1abc9c</color>
+    <color name="statbar_franz_light">#16a085</color>
+    <color name="accent_material_light_rv">#ffffff</color>
+    <color name="primary_text_default_material_light_rv">#de000000</color>
+    <color name="primary_text_material_dark">#ffffff</color>
+    <color name="secondary_text_material_dark">#ffffff</color>
+    <color name="primary_text_material_light">#000000</color>
+    <color name="secondary_text_material_light">#e3000000</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="primary">#E43F3F</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="white_alpha">#10ffffff</color>
+</resources>

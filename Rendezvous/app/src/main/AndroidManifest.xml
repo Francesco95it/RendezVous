@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unitn.francesco.rendezvous">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".Initializer"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppCompatMod">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Nav"
+            android:label="@string/title_activity_nav"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".Account"
+            android:label="@string/title_activity_account"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".CreateEvent"
+            android:label="@string/title_activity_create_event"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".EventPage"
+            android:label="@string/title_activity_event_page"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".PersonalInfo"
+            android:label="@string/title_activity_personal_info"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".FavEvents"
+            android:label="@string/title_activity_fav_events"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".My_tags"
+            android:label="@string/title_activity_my_tags"
+            android:theme="@style/AppCompatMod" />
+        <activity
+            android:name=".SearchActivity"
+            android:label="@string/title_activity_search"
+            android:theme="@style/AppCompatMod"></activity>
+    </application>
+
+</manifest>
